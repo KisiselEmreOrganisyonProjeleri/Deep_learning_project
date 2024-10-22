@@ -1,0 +1,19 @@
+	1.	TensorFlow: Makine öğrenmesi ve derin öğrenme modelleri oluşturmak ve eğitmek için kullanılan bir kütüphane.
+	2.	Pandas: Veri manipülasyonu ve analizi için kullanılan, özellikle DataFrame yapısı sunan bir kütüphane.
+	3.	DVC: Makine öğrenmesi projelerinde veri, modeller ve deneyleri takip etmek için kullanılan bir veri sürüm kontrol sistemi.
+	4.	Notebook: Python kodunu yazıp çalıştırmak için kullanılan, veri bilimi alanında yaygın olan etkileşimli bir ortam (ör. Jupyter).
+	5.	NumPy: Büyük, çok boyutlu diziler ve matrislerle çalışmayı sağlayan ve matematiksel işlemleri kolaylaştıran bir kütüphane.
+	6.	Matplotlib: Python’da statik, animasyonlu ve etkileşimli görselleştirmeler oluşturmak için kullanılan bir kütüphane.
+	7.	Seaborn: İstatistiksel veri görselleştirmeleri için Matplotlib üzerine inşa edilmiş, kolay ve bilgilendirici grafikler oluşturmayı sağlayan bir kütüphane.
+	8.	python-box==6.0.2: Python’da nokta notasyonu ile erişilebilen, sözlük benzeri bir nesne sağlayan bir kütüphane.
+	9.	pyYAML: YAML dosyalarını okumak ve yazmak için kullanılan bir kütüphane.
+	10.	tqdm: Döngülerin ilerleme durumunu gösteren bir ilerleme çubuğu sağlar.
+	11.	ensure==1.0.2: Python nesnelerinin güvenli ve doğru olmasını sağlamak için doğrulama ve işlem yapar.
+	12.	Joblib: Python’da verimli serileştirme ve paralel işlem yapma için kullanılan bir kütüphane.
+	13.	types-PyYAML: PyYAML için tip ipuçları sağlayarak kod kalitesini artıran bir kütüphane.
+	14.	SciPy: Optimizasyon ve sinyal işleme gibi bilimsel ve teknik hesaplamalar için kullanılan bir kütüphane.
+	15.	Flask: Python’da web uygulamaları geliştirmek için kullanılan hafif bir web çerçevesi.
+	16.	Flask-Cors: Farklı alan adlarından API erişimini sağlamak için Flask’e Cross-Origin Resource Sharing (CORS) desteği ekler.
+	17.	-e .: Geliştirme sırasında bir Python paketini düzenlenebilir modda yüklemek için kullanılan bir komut.
+
+Bu kütüphaneler veri bilimi, makine öğrenmesi ve web geliştirme süreçlerinde farklı işlevler üstlenir.
